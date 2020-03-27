@@ -1,0 +1,12 @@
+{
+    "name": "brightmusicstudio",
+    "description": "Fullstack JavaScript with MongoDB, Express, AngularJS, and Node.js.",
+    "license": "MIT",
+    "dependencies": {
+        "jquery": "^3.4.1",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1",
+        "react-ga": "^2.7.0",
+        "react-scripts": "3.4.1"
+    }
+  }
