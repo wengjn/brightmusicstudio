@@ -7,6 +7,10 @@
         "react": "^16.13.1",
         "react-dom": "^16.13.1",
         "react-ga": "^2.7.0",
+        "typescript": "latest",
+        "node-sass": "latest",
+        "sass": "latest",
+        "fibers": "latest",
         "react-scripts": "3.4.1"
     }
   }
